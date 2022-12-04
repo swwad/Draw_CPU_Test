@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\CPUBusy\CPUBusy\bin\Debug\CPUBusy.exe.config
+C:\Users\user\Desktop\CPUBusy\CPUBusy\bin\Debug\CPUBusy.exe
+C:\Users\user\Desktop\CPUBusy\CPUBusy\bin\Debug\CPUBusy.pdb
+C:\Users\user\Desktop\CPUBusy\CPUBusy\obj\Debug\CPUBusy.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CPUBusy\CPUBusy\obj\Debug\CPUBusy.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\CPUBusy\CPUBusy\obj\Debug\CPUBusy.Form1.resources
+C:\Users\user\Desktop\CPUBusy\CPUBusy\obj\Debug\CPUBusy.Properties.Resources.resources
+C:\Users\user\Desktop\CPUBusy\CPUBusy\obj\Debug\CPUBusy.csproj.GenerateResource.cache
+C:\Users\user\Desktop\CPUBusy\CPUBusy\obj\Debug\CPUBusy.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CPUBusy\CPUBusy\obj\Debug\CPUBusy.exe
+C:\Users\user\Desktop\CPUBusy\CPUBusy\obj\Debug\CPUBusy.pdb
